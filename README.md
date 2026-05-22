@@ -12,10 +12,8 @@ The Caesar cipher is one of the simplest and most widely known encryption techni
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
+- Python
+  
 ## 📋 Features
 
 - Text input area
@@ -39,3 +37,40 @@ The Caesar cipher is one of the simplest and most widely known encryption techni
 - *Ciphertext*: uryyb jbeyq
 
 ## 🗂️ Project Structure
+## 🏁 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lamisa-maisha/caesar-cipher.gi
+
+1. Navigate into the folder:
+   bash
+   cd caesar-cipher
+   
+2. Open index.html in your browser.
+
+📌 Future Improvements
+
+· Add support for negative shifts (wrap-around)
+· Include a "copy to clipboard" button
+· Add dark/light theme toggle
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+📄 License
+
+MIT
+
+👤 Author
+
+Lamisa Maisha
+GitHub • FreeCodeCamp
+
+🙏 Acknowledgments
+
+· FreeCodeCamp for the project inspiration
+· Wikipedia: Caesar cipher
